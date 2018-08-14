@@ -1,1 +1,2 @@
-this is admission file.
+
+print("this is admission file")
